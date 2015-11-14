@@ -2,7 +2,7 @@
 
 Showcase for Projects at Nov 2015 Hackathon
 
-| Type | Location |
+| Communication | Connect |
 | ---- | -------- |
 | Message | [Empower Hack Gitter.im](https://gitter.im/empowerhack/empowerhack.github.io) |
 | Video | [Empower Hack Appear.in](https://appear.in/empowerhack) |
