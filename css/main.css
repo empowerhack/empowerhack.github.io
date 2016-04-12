@@ -84,7 +84,7 @@ body {
     right: -200px;
     bottom: 0;
     width: 280px;
-    z-index: 1000000;  
+    z-index: 1000000;
     display: none;
 }
 
@@ -329,8 +329,8 @@ body {
 }
 
 .banner-bottom .chunk {
-    width: 0; 
-    height: 0; 
+    width: 0;
+    height: 0;
     border-right: 20px solid white;
     border-left: 20px solid white;
     border-top: 20px solid transparent;
@@ -387,6 +387,10 @@ body {
 
 .join {
     width: 100%;
+}
+
+.events-text {
+    text-align: center;
 }
 
 .about, .info, .schedule, .events, .projects, .partners, .resources, .contact {
@@ -625,7 +629,7 @@ section .title:after {
 }
 
 .resource-col {
-    text-align:center; 
+    text-align:center;
 }
 
 .col:first-child { margin-left: 0; }
@@ -776,12 +780,12 @@ section .title:after {
 
 .contact-details a {
     text-decoration: none;
-    color: #7a7a7a; 
+    color: #7a7a7a;
 }
 
 .contact-details a:hover {
     text-decoration: none;
-    color: #ec0565; 
+    color: #ec0565;
 }
 
 .sponsors {
@@ -802,7 +806,7 @@ section .title:after {
 .flip {
     background: #efefef;
 }
-    
+
 @media only screen and (max-width: 900px) {
     #header nav {
         display: none;
@@ -961,7 +965,7 @@ section .title:after {
     margin-right: 0 !important;
 }
 
-.row-flex, .row-flex > div[class*='col-'] {  
+.row-flex, .row-flex > div[class*='col-'] {
     display: -webkit-box;
     display: -moz-box;
     display: -ms-flexbox;
