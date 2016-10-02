@@ -5,4 +5,4 @@ RewriteCond %{HTTP_HOST} ^empowerhack.io[nc]
 RewriteRule ^(.*)$ http://www.empowerhack.io/$1 [r=301,nc]
 
 //301 Redirect Hababy link
-Redirect 301 /hababy-site #hababy
+Redirect 301 /hababy-site /#hababy
