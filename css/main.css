@@ -167,6 +167,14 @@ p {
     border: 3px solid white;
 }
 
+#content .about a {
+    color: #fb4880;
+}
+
+#content .about a:hover {
+    color: #333;
+}
+
 #content .social-media {
     color: #111;
     margin-top: 10px;
