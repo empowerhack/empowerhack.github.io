@@ -66,6 +66,11 @@ textarea {
    EmpowerHack Styles
    ========================================================================== */
 
+.ctr {
+    width: 100%;
+    text-align: center;
+}
+
 header {
     width: 100vw;
     position: fixed;
@@ -136,6 +141,11 @@ p {
     font-family: 'Cardo', serif;
     font-size: 1.4em;
     line-height: 1.5em;
+}
+
+.content-full {
+    width: 100%;
+    padding: 80px 2rem 0;
 }
 
 #content {
@@ -311,6 +321,22 @@ p {
 
 #content .signup {
     background: white;
+}
+
+.numbered-list {
+    list-style: default;
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+.numbered-list li {
+    margin-bottom: 40px;
+}
+
+.numbered-list li img {
+    margin-top: 10px;
+    max-width: 700px;
 }
 
 /* ==========================================================================
