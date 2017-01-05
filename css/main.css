@@ -148,6 +148,10 @@ p {
     padding: 80px 2rem 0;
 }
 
+.content-wrap a {
+    text-decoration: none
+}
+
 #content {
     position: relative;
     text-align: center
