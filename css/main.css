@@ -233,6 +233,8 @@ p {
 #content .home {
     background: url('../img/empowerhack.jpg') no-repeat;
     background-size: cover;
+    height: 100vh;
+    font-size: 1.2em;
 }
 
 #content .hero {
